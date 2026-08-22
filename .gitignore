@@ -1,0 +1,3 @@
+﻿# Ignore tool results and temp files
+*.log
+*.tmp
